@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: #ff0;
   background-size: cover;
   background-attachment: fixed;
   font-family: Verdana, Helvetica, Arial, sans-serif;
